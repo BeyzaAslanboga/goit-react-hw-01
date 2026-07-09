@@ -32,3 +32,4 @@ export default function Profile({ name, tag, location, image, stats }) {
     </div>
   );
 }
+export default Profile;
